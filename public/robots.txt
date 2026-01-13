@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://errakuiholding.uk/sitemap.xml
+
+# Crawl-delay for respectful crawling
+Crawl-delay: 1
+
+# Disallow admin/private paths
+Disallow: /api/
+Disallow: /admin/
+
