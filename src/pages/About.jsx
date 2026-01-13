@@ -44,8 +44,8 @@ const departments = [
 
 const locations = [
   { city: 'London', country: 'United Kingdom', type: 'Headquarters', address: '71-75 Shelton Street, Covent Garden, WC2H 9JQ' },
-  { city: 'Monaco', country: 'Monte Carlo', type: 'Mediterranean Office', address: 'Boulevard des Moulins' },
-  { city: 'Lugano', country: 'Switzerland', type: 'Swiss Office', address: 'Via Nassa, Ticino' }
+  { city: 'Monaco', country: 'Monte Carlo', type: 'By Appointment', address: 'Available on request' },
+  { city: 'Lugano', country: 'Switzerland', type: 'By Appointment', address: 'Available on request' }
 ]
 
 export default function About() {
